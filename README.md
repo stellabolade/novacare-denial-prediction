@@ -139,7 +139,7 @@ A critical rule in predictive modelling is avoiding **data leakage** — using i
 
 ## 🔍 Feature Importance — What Drives Denials?
 
-![Feature Importance](feature_importance.png)
+![Feature Importance](feature_importance(1).png)
 
 | Feature | Coefficient | Business Interpretation |
 |---|---|---|
