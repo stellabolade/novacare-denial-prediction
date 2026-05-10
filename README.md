@@ -1,7 +1,10 @@
 # 🤖 NovaCare Insurance — Claim Denial Prediction Model
 
-**Stella Obase| Dataverse Africa Internship, Cohort 4.0 | May 2026**
+**Stella Omobolade Obase** — Team Lead | Dataverse Africa Internship Cohort 4.0 (Team 3)
 
+Responsible for coordinating team deliverables, directing the modelling approach, and presenting findings to the coordinators.
+
+ May 2026
 ---
 
 ## 📌 Project Overview
@@ -234,8 +237,6 @@ This project is the final phase of a four-part NovaCare series:
 | **Phase 4** | **NovaCare Denial Prediction (this repo)** | **Predictive ML model** |
 
 ---
-
-## 👩‍💻 About
 
 
 
